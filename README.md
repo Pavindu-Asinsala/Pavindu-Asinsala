@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pavindu Asinsala</h1>
 <h3 align="center">an IT undergraduate with a passion for hardware, web development, and networking."</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pavindu-asinsala&label=Profile%20views&color=0e75b6&style=flat" alt="pavindu-asinsala" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pavindu-asinsala&label=Profile%20views&color=0e75b6&style=flat" alt="pavindu-asinsala" /> </p>
 
 - 📫 How to reach me **paviasinsala0@gmail.com**
 
