@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavindu-asinsala&show_icons=true&locale=en" alt="pavindu-asinsala" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavindu-asinsala&" alt="pavindu-asinsala" /></p>
+
