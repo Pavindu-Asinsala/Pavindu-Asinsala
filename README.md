@@ -35,11 +35,13 @@
 
 
 <br><br>
-<span align="center">
- 
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=Pavindu-Asinsala&show_icons=true&locale=en" alt="donpablonow" />
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Pavindu-Asinsala&layout=compact">
 
-</span>
+ 
+<img width="45%" src="https://github-readme-stats.vercel.app/api?username=Pavindu-Asinsala&show_icons=true&locale=en" alt="donpablonow" style="float: left; margin-right: 10px;" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavindu-Asinsala&layout=compact" style="float: right;" />
+
+
+
 
 
