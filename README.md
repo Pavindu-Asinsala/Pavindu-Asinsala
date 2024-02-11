@@ -37,9 +37,12 @@
 <br><br>
 
  
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=Pavindu-Asinsala&show_icons=true&locale=en" alt="donpablonow" style="float: left; margin-right: 10px;" />
+<div style="display: flex; justify-content: space-between; width: 100%;">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Pavindu-Asinsala&show_icons=true&locale=en" alt="donpablonow" style="margin-right: 5px;" />
+    <img width = "35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavindu-Asinsala&layout=compact" />
+</div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pavindu-Asinsala&layout=compact" style="float: right;" />
+
 
 
 
