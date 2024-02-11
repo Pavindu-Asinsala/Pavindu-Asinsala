@@ -35,6 +35,6 @@
 <br><br>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavindu-asinsala&show_icons=true&locale=en" alt="pavindu-asinsala" /></p>
+
 
 
