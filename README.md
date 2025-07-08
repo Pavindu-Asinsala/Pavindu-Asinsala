@@ -15,7 +15,7 @@
 
 - 🎓 I am an Undergraduate at **SLIIT**
 - 💻 I’m currently learning **M E R N**
-- 🌐 Portfolio Website **pending..**
+- 🌐 Portfolio Website **(https://pavinduasinsala.netlify.app/)**
 - 📩 How to reach me **paviasinsala0@gmail.com**
 - 😎 Fun fact **Call me as Pavi**
 
